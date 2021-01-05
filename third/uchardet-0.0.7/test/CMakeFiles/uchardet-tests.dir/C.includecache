@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wdliang/workspace/dev2/SP4/deepin-editor/third/uchardet-0.0.7/src/uchardet.h
+stddef.h
+-
+
+/home/wdliang/workspace/dev2/SP4/deepin-editor/third/uchardet-0.0.7/test/uchardet-tests.c
+ctype.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+../src/uchardet.h
+/home/wdliang/workspace/dev2/SP4/deepin-editor/third/uchardet-0.0.7/src/uchardet.h
+

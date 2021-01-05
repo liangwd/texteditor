@@ -1,0 +1,8 @@
+/home/wdliang/workspace/dev2/SP4/deepin-editor/third/lib/lib/pkgconfig/uchardet.pc
+/home/wdliang/workspace/dev2/SP4/deepin-editor/third/lib/lib/libuchardet.so.0.0.7
+/home/wdliang/workspace/dev2/SP4/deepin-editor/third/lib/lib/libuchardet.so.0
+/home/wdliang/workspace/dev2/SP4/deepin-editor/third/lib/lib/libuchardet.so
+/home/wdliang/workspace/dev2/SP4/deepin-editor/third/lib/lib/libuchardet.a
+/home/wdliang/workspace/dev2/SP4/deepin-editor/third/lib/include/uchardet/uchardet.h
+/home/wdliang/workspace/dev2/SP4/deepin-editor/third/lib/bin/uchardet
+/home/wdliang/workspace/dev2/SP4/deepin-editor/third/lib/share/man/man1/uchardet.1
